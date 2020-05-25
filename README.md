@@ -1,0 +1,2 @@
+# bot-template
+Template bot.
